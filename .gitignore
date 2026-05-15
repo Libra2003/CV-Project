@@ -1,0 +1,10 @@
+venv/
+.env
+*.task
+data/
+credentials.json
+token.json
+runs/
+checkpoints/
+__pycache__/
+*.pyc
